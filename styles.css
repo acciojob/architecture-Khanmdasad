@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+body{
+    background-color: grey;
+    text-align: center;
+
+}
+
+table{
+    width: 100%;
+}
+
+.col1{
+    width: 200px;
+}
+
+.col2{
+    width: 600px;
+}
